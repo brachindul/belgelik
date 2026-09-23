@@ -52,6 +52,7 @@ def test_ingest_records_article_diff_without_scraping(temp_legislation, monkeypa
     with main.use_profile(temp_legislation), main.db() as conn:
         conn.execute("UPDATE legislation SET snapshot_version = 'old' WHERE mevzuat_no = '6098'")
         conn.execute("UPDATE legislation_article SET metin = 'eski metin' WHERE id = '6098/m.77'")
+        monkeypatch.setattr(mevzuat_ingest, "_add_emsal_python_paths", lambda *_args, **_kwargs: None)
         monkeypatch.setattr(mevzuat_ingest, "_search_document_id", lambda *_args, **_kwargs: ("fake", {"title": "Türk Borçlar Kanunu", "legislation_type": "Kanun"}))
         monkeypatch.setattr(mevzuat_ingest, "fetch_full_text", lambda *_args, **_kwargs: {"text": "MADDE 77 - Yeni metin", "content_status": "html_markdown", "title": "TBK"})
         monkeypatch.setitem(mevzuat_ingest.OFFICIAL_FINAL_ARTICLE, "6098", 77)
@@ -64,6 +65,7 @@ def test_ingest_records_article_diff_without_scraping(temp_legislation, monkeypa
 
 
 def _mock_ingest(monkeypatch, text, final_article):
+    monkeypatch.setattr(mevzuat_ingest, "_add_emsal_python_paths", lambda *_args, **_kwargs: None)
     monkeypatch.setattr(mevzuat_ingest, "_search_document_id", lambda *_args, **_kwargs: ("fake", {"title": "Türk Borçlar Kanunu", "legislation_type": "Kanun"}))
     monkeypatch.setattr(mevzuat_ingest, "fetch_full_text", lambda *_args, **_kwargs: {"text": text, "content_status": "html_markdown", "title": "TBK"})
     monkeypatch.setitem(mevzuat_ingest.OFFICIAL_FINAL_ARTICLE, "6098", final_article)
