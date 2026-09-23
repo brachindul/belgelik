@@ -1,0 +1,40 @@
+{
+  "mevzuat_no": "2577",
+  "document_id": "103161",
+  "text_sha256": "7677e86c29c9ca96b51a1531456cf5de9a953b08b1f63b181e0ffbdb90202cc9",
+  "text_length": 96147,
+  "official_final_article": 65,
+  "article_count": 75,
+  "first_id": "2577/m.1",
+  "last_id": "2577/m.65",
+  "special_counts": {
+    "ek": 3,
+    "gecici": 4
+  },
+  "warnings": [
+    "Kanuna işlenemeyen hükümler bölümü madde ağacına dahil edilmedi",
+    "Madde öncesi 14 satır korunmadı; metadata dışı başlık olarak kaldı"
+  ],
+  "samples": [
+    {
+      "id": "2577/m.1",
+      "text": "1.\n\nDanıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi\nmahkemelerinin görevine giren uyuşmazlıkların çözümü,\n\nbu Kanunda gösterilen usullere tabidir.\n2.\n\nDanıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinde yazılı\n\nyargılama usulü uygulanır ve inceleme evrak üzerinde yapılır.\nİdari\n\ndava türleri ve idari yargı yetkisinin sınırı:"
+    },
+    {
+      "id": "2577/m.19",
+      "text": "(Değişik birinci cümle: 10/6/1994-4001/9 md.)\nDuruşma\n\nyapıldıktan sonra en geç onbeş gün içinde karar verilir. Ara kararı verilen hallerde,\n\nbu kararın yerine getirilmesi üzerine, dosyalar öncelikle incelenir.\nDosyaların\n\nincelenmesi:"
+    },
+    {
+      "id": "2577/m.35",
+      "text": "(Değişik: 5/4/1990-3622/13 md.)\nTaşınır\n\nmallara ilişkin davalarda yetkili mahkeme, taşınır malın bulunduğu yer idare mahkemesidir.\nTam\n\nyargı davalarında yetki:"
+    },
+    {
+      "id": "2577/m.54",
+      "text": "(Mülga: 18/6/2014-6545/103 md.)\nYargılamanın\n\nyenilenmesi usulü:\n[48]"
+    },
+    {
+      "id": "2577/m.65",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n6/1/1982"
+    }
+  ]
+}

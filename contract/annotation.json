@@ -1,0 +1,15 @@
+{
+  "stroke_uuid": "st-1",
+  "doc_id": "doc-abc",
+  "page": 3,
+  "kind": "pen",
+  "color": 4278190080,
+  "width": 2.5,
+  "points": [[10.0, 20.0], [11.0, 21.0]],
+  "text": null,
+  "font_size": null,
+  "font_family": null,
+  "updated_at_ms": 1700000000000,
+  "updated_by_device": "cihaz-1",
+  "deleted_at_ms": null
+}

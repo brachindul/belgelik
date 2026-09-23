@@ -1,0 +1,9 @@
+{
+  "bookmark_uuid": "bm-1",
+  "doc_id": "doc-abc",
+  "page": 7,
+  "label": "Bolum 2",
+  "updated_at_ms": 1700000000000,
+  "updated_by_device": "cihaz-1",
+  "deleted_at_ms": null
+}

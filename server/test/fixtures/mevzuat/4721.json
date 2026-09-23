@@ -1,0 +1,37 @@
+{
+  "mevzuat_no": "4721",
+  "document_id": "103249",
+  "text_sha256": "643e0e0f1f577511c68a0c756e0d94ceb2cec187eaaba52f4a37dbc0e720cd3d",
+  "text_length": 383422,
+  "official_final_article": 1030,
+  "article_count": 1030,
+  "first_id": "4721/m.1",
+  "last_id": "4721/m.1030",
+  "special_counts": {},
+  "warnings": [
+    "Kanuna işlenemeyen hükümler bölümü madde ağacına dahil edilmedi",
+    "Madde öncesi 27 satır korunmadı; metadata dışı başlık olarak kaldı"
+  ],
+  "samples": [
+    {
+      "id": "4721/m.1",
+      "text": "Kanun, sözüyle ve özüyle değindiği bütün konularda uygulanır.\nKanunda\nuygulanabilir bir hüküm yoksa, hâkim, örf ve âdet hukukuna göre, bu da yoksa\nkendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre karar\nverir.\nHâkim,\nkarar verirken bilimsel görüşlerden ve yargı kararlarından yararlanır.\nB.\nHukukî ilişkilerin kapsamı\nI."
+    },
+    {
+      "id": "4721/m.258",
+      "text": "Eşler, mal rejimi sözleşmesiyle sadece edinilmiş mallardan oluşan bir\nortaklık kabul edebilirler.\nKişisel\nmalların gelirleri de bu ortaklığa dahildir.\nb."
+    },
+    {
+      "id": "4721/m.516",
+      "text": "Mirasbırakan, mirasının tamamı veya belli bir oranı için bir veya birden\nçok kişiyi mirasçı atayabilir.\nBir\nkişinin, mirasın tamamını veya belli bir oranını almasını içeren her tasarruf,\nmirasçı atanması sayılır.\nD.\nBelirli mal bırakma\nI."
+    },
+    {
+      "id": "4721/m.773",
+      "text": "Bilimsel değeri olan sahipsiz doğal şeyler ile eski eserlerin bulunması\nhâlinde özel kanun hükümleri uygulanır.\nIV."
+    },
+    {
+      "id": "4721/m.1030",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n22/11/2001"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "mevzuat_no": "6098",
+  "document_id": "103273",
+  "text_sha256": "51cfbb8a7c512f2838ca0a48fd4d65dacc7aa79bec52c5e2e7071fd3b7c712bc",
+  "text_length": 287456,
+  "official_final_article": 649,
+  "article_count": 647,
+  "first_id": "6098/m.1",
+  "last_id": "6098/m.649",
+  "special_counts": {},
+  "warnings": [
+    "Kanuna işlenemeyen hükümler bölümü madde ağacına dahil edilmedi",
+    "Madde öncesi 16 satır korunmadı; metadata dışı başlık olarak kaldı"
+  ],
+  "samples": [
+    {
+      "id": "6098/m.1",
+      "text": "Sözleşme, tarafların iradelerini karşılıklı ve birbirine\nuygun olarak açıklamalarıyla kurulur.\nİrade\naçıklaması, açık veya örtülü olabilir.\n2. İkinci derecedeki"
+    },
+    {
+      "id": "6098/m.162",
+      "text": "Birden çok borçludan her biri, alacaklıya karşı borcun\ntamamından sorumlu olmayı kabul ettiğini bildirirse, müteselsil borçluluk\ndoğar.\nBöyle bir bildirim yoksa, müteselsil borçluluk ancak kanunda öngörülen\nhâllerde doğar.\nII.\nDış ilişki\n1.\nHükümleri\na."
+    },
+    {
+      "id": "6098/m.324",
+      "text": "Kullanıma elverişli bulundurulduğu sürece kiralanan,\nkiracının kendisinden kaynaklanan bir sebeple kullanılmasa veya sınırlı olarak\nkullanılsa bile kiracı, kira bedelini ödemekle yükümlüdür. Bu durumda, kiraya\nverenin yapmaktan kurtulduğu giderler kira bedelinden indirilir.\n2. Kiralananın\nsözleşmenin bitiminden önce geri verilmesi\n2"
+    },
+    {
+      "id": "6098/m.487",
+      "text": "Yayım sözleşmesi, bir fikir ve sanat\neseri sahibinin veya halefinin, o eseri yayımlanmak üzere yayımcıya bırakmayı,\nyayımcının da onu çoğaltarak yayımlamayı üstlendiği sözleşmedir."
+    },
+    {
+      "id": "6098/m.649",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n6098"
+    }
+  ]
+}

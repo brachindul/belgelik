@@ -1,0 +1,9 @@
+{
+  "doc_id": "doc-abc",
+  "date": "2026-07-04",
+  "start_page": 1,
+  "target_pages": 50,
+  "updated_at_ms": 1700000000000,
+  "updated_by_device": "cihaz-1",
+  "deleted_at_ms": null
+}

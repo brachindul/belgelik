@@ -1,0 +1,39 @@
+{
+  "mevzuat_no": "6100",
+  "document_id": "103103",
+  "text_sha256": "084b7584ac4204199ed0ce422709758b19b170de6447ae76f71f39cd93563fae",
+  "text_length": 274091,
+  "official_final_article": 452,
+  "article_count": 456,
+  "first_id": "6100/m.1",
+  "last_id": "6100/m.452",
+  "special_counts": {
+    "ek": 1
+  },
+  "warnings": [
+    "Kanuna işlenemeyen hükümler bölümü madde ağacına dahil edilmedi",
+    "Madde öncesi 11 satır korunmadı; metadata dışı başlık olarak kaldı"
+  ],
+  "samples": [
+    {
+      "id": "6100/m.1",
+      "text": "(1)\nMahkemelerin görevi, ancak\nkanunla düzenlenir. Göreve ilişkin kurallar, kamu düzenindendir.\nAsliye"
+    },
+    {
+      "id": "6100/m.115",
+      "text": "(1) Mahkeme, dava şartlarının mevcut olup olmadığını, davanın her aşamasında\nkendiliğinden araştırır. Taraflar da dava şartı noksanlığını her zaman ileri sürebilirler.\n(2) Mahkeme, dava şartı noksanlığını\ntespit ederse davanın usulden reddine karar verir. Ancak, dava şartı noksanlığının\ngiderilmesi mümkün ise bunun tamamlanması için kesin süre verir. Bu süre içinde\ndava şartı noksanlığı giderilmemişse davayı dava şartı yokluğu sebebiyle usulden\nreddeder.\n(3) Dava şartı noksanlığı,\nmahkemece, davanın esasına girilmesinden önce fark edilmemiş, taraflarca ileri sürülmemiş\nve fakat hüküm anında bu noksanlık giderilmişse, başlangıçtaki dava şartı noksanlığından\nötürü, dava usulden reddedilemez.\nİKİNCİ\nAYIRIM\nİlk İtirazlar"
+    },
+    {
+      "id": "6100/m.229",
+      "text": "(1) Yemin için davet edilen kimse, tayin edilen gün ve\nsaatte mahkemede geçerli bir özrü olmaksızın bizzat hazır bulunmaz yahut hazır bulunup\nda yemini iade etmez ya da yemini eda etmekten kaçınırsa yemin konusu vakıaları\nikrar etmiş sayılır.\n(2)\nKendisine yemin iade olunan kimse, yemin etmekten kaçınırsa yemin konusu vakıa ispat\nedilememiş sayılır."
+    },
+    {
+      "id": "6100/m.343",
+      "text": "(1) İstinaf dilekçesi,\nkararı veren mahkemeye veya başka bir yer mahkemesine verilebilir. İstinaf dilekçesi\nhangi mahkemeye verilmişse, o mahkemece bölge adliye mahkemesi başvuru defterine\nkaydolunur ve başvurana ücretsiz bir alındı belgesi verilir.\n(2) Kararı veren mahkemeden başka bir mahkemeye verilmiş\nolan istinaf dilekçesi, bu mahkemece yukarıdaki fıkraya göre işlem yapıldıktan sonra\nkararı veren mahkemeye örnekleriyle birlikte gönderilir. Bu durum derhâl mahkemesine\nbildirilir.\n(3) İstinaf yoluna başvurma tarihi konusunda 118 inci madde\nhükmü uygulanır.\n(4) Dosya, kararı veren mahkemece, istinaf dilekçesinde\ngösterilen daire ile bağlı kalınmaksızın, ilgili bölge adliye mahkemesine gönderilir.\nHarç ve giderlerin yatırılması\n[46]"
+    },
+    {
+      "id": "6100/m.452",
+      "text": "(1)\nBu Kanun hükümlerini Bakanlar Kurulu\nyürütür.\n12/1/2011 TARİHLİ ve 6100 SAYILI KANUNA"
+    }
+  ]
+}

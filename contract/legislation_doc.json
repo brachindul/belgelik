@@ -1,0 +1,9 @@
+{
+  "mevzuat_no": "6098",
+  "ad": "Türk Borçlar Kanunu",
+  "kisa_ad": "TBK",
+  "tur": "Kanun",
+  "snapshot_version": "fixture-v1",
+  "ingested_at_ms": 1760000000000,
+  "raw_hash": "sha256:fixture"
+}

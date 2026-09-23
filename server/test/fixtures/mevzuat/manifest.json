@@ -1,0 +1,104 @@
+{
+  "2004": {
+    "document_id": "102993",
+    "text_sha256": "7db381c1bc3e7ef4ab305542973485c1d4305bfc45c03e6c3f07b4667c56ebc0",
+    "text_length": 416926,
+    "official_final_article": 370,
+    "article_count": 477,
+    "first_id": "2004/m.1",
+    "last_id": "2004/m.370",
+    "special_counts": {
+      "ek": 2,
+      "gecici": 19
+    }
+  },
+  "2577": {
+    "document_id": "103161",
+    "text_sha256": "7677e86c29c9ca96b51a1531456cf5de9a953b08b1f63b181e0ffbdb90202cc9",
+    "text_length": 96147,
+    "official_final_article": 65,
+    "article_count": 75,
+    "first_id": "2577/m.1",
+    "last_id": "2577/m.65",
+    "special_counts": {
+      "ek": 3,
+      "gecici": 4
+    }
+  },
+  "2709": {
+    "document_id": "103165",
+    "text_sha256": "e79458fe3a2bb3362a590c49e0860bfa1753a41281c66ea80f34d9a03580463c",
+    "text_length": 194238,
+    "official_final_article": 177,
+    "article_count": 181,
+    "first_id": "2709/m.1",
+    "last_id": "2709/m.177",
+    "special_counts": {
+      "gecici": 4
+    }
+  },
+  "4721": {
+    "document_id": "103249",
+    "text_sha256": "643e0e0f1f577511c68a0c756e0d94ceb2cec187eaaba52f4a37dbc0e720cd3d",
+    "text_length": 383422,
+    "official_final_article": 1030,
+    "article_count": 1030,
+    "first_id": "4721/m.1",
+    "last_id": "4721/m.1030",
+    "special_counts": {}
+  },
+  "5237": {
+    "document_id": "103228",
+    "text_sha256": "d595cee96ad7d4866a637ead94159a4b9eb8f6767972a4bda166db2e28eb5678",
+    "text_length": 279213,
+    "official_final_article": 345,
+    "article_count": 346,
+    "first_id": "5237/m.1",
+    "last_id": "5237/m.345",
+    "special_counts": {}
+  },
+  "5271": {
+    "document_id": "102946",
+    "text_sha256": "712dc43ce4d9fb33a3e791b9aaf5e1f65cd5bad19284931d6a767b380313b4e4",
+    "text_length": 340061,
+    "official_final_article": 335,
+    "article_count": 345,
+    "first_id": "5271/m.1",
+    "last_id": "5271/m.335",
+    "special_counts": {
+      "gecici": 5
+    }
+  },
+  "6098": {
+    "document_id": "103273",
+    "text_sha256": "51cfbb8a7c512f2838ca0a48fd4d65dacc7aa79bec52c5e2e7071fd3b7c712bc",
+    "text_length": 287456,
+    "official_final_article": 649,
+    "article_count": 647,
+    "first_id": "6098/m.1",
+    "last_id": "6098/m.649",
+    "special_counts": {}
+  },
+  "6100": {
+    "document_id": "103103",
+    "text_sha256": "084b7584ac4204199ed0ce422709758b19b170de6447ae76f71f39cd93563fae",
+    "text_length": 274091,
+    "official_final_article": 452,
+    "article_count": 456,
+    "first_id": "6100/m.1",
+    "last_id": "6100/m.452",
+    "special_counts": {
+      "ek": 1
+    }
+  },
+  "6102": {
+    "document_id": "103039",
+    "text_sha256": "db9f73f7a6de074224acdd03a78c7448869ba55b984979f5b6f96fc561f52924",
+    "text_length": 962518,
+    "official_final_article": 1535,
+    "article_count": 1536,
+    "first_id": "6102/m.1",
+    "last_id": "6102/m.1535",
+    "special_counts": {}
+  }
+}

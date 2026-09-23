@@ -1,0 +1,39 @@
+{
+  "mevzuat_no": "5271",
+  "document_id": "102946",
+  "text_sha256": "712dc43ce4d9fb33a3e791b9aaf5e1f65cd5bad19284931d6a767b380313b4e4",
+  "text_length": 340061,
+  "official_final_article": 335,
+  "article_count": 345,
+  "first_id": "5271/m.1",
+  "last_id": "5271/m.335",
+  "special_counts": {
+    "gecici": 5
+  },
+  "warnings": [
+    "Kanuna işlenemeyen hükümler bölümü madde ağacına dahil edilmedi",
+    "Madde öncesi 13 satır korunmadı; metadata dışı başlık olarak kaldı"
+  ],
+  "samples": [
+    {
+      "id": "5271/m.1",
+      "text": "(1) Bu Kanun, ceza muhakemesinin nasıl yapılacağı\nhususundaki kurallar ile bu sürece katılan kişilerin hak, yetki ve\nyükümlülüklerini düzenler."
+    },
+    {
+      "id": "5271/m.86",
+      "text": "(1) Engelleyici sebepler olmadıkça ölü muayenesinden\nveya otopsiden önce ölünün kimliği her suretle ve özellikle kendisini\ntanıyanlara gösterilerek belirlenir ve elde edilmiş bir şüpheli veya sanık\nvarsa, teşhis edilmek üzere ölü ona da gösterilebilir.\n(2) Ölünün adlî muayenesinde tıbbî belirtiler, ölüm zamanı ve ölüm\nnedenini belirlemek için tüm bulgular saptanır.\n(3) Bu muayene, Cumhuriyet savcısının huzurunda ve bir hekim\ngörevlendirilerek yapılır."
+    },
+    {
+      "id": "5271/m.169",
+      "text": "(1) Şüphelinin ifadesinin alınması veya sorgusu, tanık\nve bilirkişinin dinlenmesi veya bir keşif ve muayene sırasında Cumhuriyet\nsavcısı veya sulh ceza hâkiminin yanında bir zabıt kâtibi bulunur. Acele\nhâllerde, yemin vermek koşuluyla, başka bir kimse, yazman olarak\ngörevlendirilebilir.\n(2) Her soruşturma işlemi tutanağa bağlanır. Tutanak, adlî kolluk\ngörevlisi, Cumhuriyet savcısı veya sulh ceza hâkimi ile hazır bulunan zabıt\nkâtibi tarafından imza edilir.\n(3) Müdafi veya vekil sıfatıyla hazır bulunduğu işlemlerle ilgili\ntutanakta avukatın isim ve imzasına da yer verilir.\n(4) Tutanak, işlemin yapıldığı yeri, tarihi, başlama ve bitiş saatini ve\nişleme katılan veya ilgisi bulunan kimselerin isimlerini içerir.\n[64]\n(5) İşlemde hazır bulunan ilgililerce onanmak üzere tutanağın kendilerini\nilgilendiren kısımları okunur veya okumaları için kendilerine verilir. Bu husus\ntutanağa yazılarak ilgililere imza ettirilir.\n(6) İmzadan kaçınma hâlinde nedenleri tutanağa geçirilir.\n(7)\n(Ek: 21/2/2014 – 6526/16 md.)\nTürk\nCeza Kanununun İkinci Kitap Dördüncü Kısmının Dört, Beş, Altı ve Yedinci\nBölümünde tanımlanan suçlar (318, 319, 324, 325 ve 332 nci maddeler hariç) ile\n12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun kapsamına giren\nsuçlarla ilgili yürütülen soruşturma ve kovuşturmalarda, kolluk tarafından\ndüzenlenen tutanaklara, ilgili görevlilerin açık kimlikleri yerine sadece sicil\nnumaraları yazılır. Kolluk görevlilerinin ifadesine başvurulması gerektiği\nhâllerde çıkarılan davetiye veya çağrı kâğıdı, kolluk görevlisinin iş yeri\nadresine tebliğ edilir. Bu kişilere ait ifade ve duruşma tutanaklarında adres olarak\niş yeri adresleri gösterilir.\nKamu\nDavasının Açılması"
+    },
+    {
+      "id": "5271/m.255",
+      "text": "(1) Aralarında iştirak ilişkisi olsun veya olmasın\nbirden çok kişi tarafından işlenen suçlarda, ancak uzlaşan kişi uzlaşmadan\nyararlanır."
+    },
+    {
+      "id": "5271/m.335",
+      "text": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n5271"
+    }
+  ]
+}

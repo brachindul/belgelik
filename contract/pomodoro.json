@@ -1,0 +1,11 @@
+{
+  "session_uuid": "pom-1",
+  "date": "2026-07-04",
+  "subject": "İYUK",
+  "phase": "work",
+  "minutes": 25,
+  "started_at_ms": 1700000000000,
+  "updated_at_ms": 1700000000000,
+  "updated_by_device": "cihaz-1",
+  "deleted_at_ms": null
+}

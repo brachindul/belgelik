@@ -1,0 +1,53 @@
+# Python
+server/.venv/
+server/data/
+server/pdf-kutuphane/
+server/video-kutuphane/
+# Profil kutuphaneleri (pdf-<profil>/, video-<profil>/)
+server/pdf-*/
+server/video-*/
+__pycache__/
+*.pyc
+
+# Flutter
+app/build/
+app/.dart_tool/
+app/.idea/
+*.iml
+
+server/backups/
+
+# Genel
+.DS_Store
+
+server/stdout.log
+server/stderr.log
+
+# Dart/Flutter tooling (repo kokunde olusabilen)
+.dart_tool/
+
+# Android build/yerel (makineye ozel yollar icerir)
+app/android/.gradle/
+app/android/build/
+app/android/app/build/
+app/android/local.properties
+app/android/.kotlin/
+app/android/key.properties
+*.jks
+*.keystore
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# Syncthing
+.stfolder/
+.stignore
+*.sync-conflict-*
+
+# Ajan araclari / editor
+.zcode/
+.opencode/
+.codex/
+.agents/
+.pytest_cache/
+.idea/
+*.iml
